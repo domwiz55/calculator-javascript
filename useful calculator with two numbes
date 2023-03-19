@@ -1,0 +1,10 @@
+<body>
+<input type="text">
+<button>*</button>
+<button>/</button>
+<button>+</button>
+<input type="text">
+<p id="output"></p>
+</body>
+<script>
+</script>
